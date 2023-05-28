@@ -3,3 +3,5 @@ This project is a simulation of Nano-Satellite attitude dynamics and control sys
 Science mode: The satellite camera must point to mars.
 Communication mode: The satellite must point to the large satellite to transfer data.
 Power mode: The satellite must point the solar panels to the sun to recharge.
+
+The project is still under develoment [Not completed]
